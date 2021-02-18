@@ -1,0 +1,32 @@
+Stats to get:
+Points scored per game at home
+Points scored per game on the road
+Points allowed per game at home
+Points allowed per game on the road
+Yards gained at home
+Yards gained on the road
+Yards allowed at home
+Yards allowed on the road
+Yards per point scored at home
+Yards per point scored on the road
+Yards per point allowed at home
+Yards per point allowed at home
+Yards per play on offense at home
+Yards per play on offense on the road
+Yards allowed per play at home
+Yards allowed per play on the road
+Sacks allowed per play at home
+Sacks allowed per play on the road
+Sacks per play by defense at home
+Sacks per play by defense on the road
+Interceptions thrown per play at home
+Interceptions thrown per play on the road
+Interceptions per play by defense at home
+Interceptions per play by defense on the road
+Ratio of pass to run plays at home
+Ratio of pass to run plays on the road
+Average yards per pass at home
+Average yards per pass on the road
+Average yards per run at home
+Average yards per run on the road
+Points alllowed per 100 yards

@@ -1,0 +1,26 @@
+CREATE TABLE tblNFLGame(
+    game_id SERIAL PRIMARY KEY,
+    week_num VARCHAR(50) NOT NULL,
+    team VARCHAR(50) NOT NULL,
+    team_key VARCHAR(3) NOT NULL,
+    game_day_of_week VARCHAR(5),
+    game_date  VARCHAR(25),
+    game_time  VARCHAR(50),
+    game_outcome VARCHAR(10),
+    overtime VARCHAR(2),
+    game_location VARCHAR(1),
+    opp VARCHAR(50),
+    pts_off INT,
+    pts_def INT,
+    first_down_off INT, 
+    yards_off INT, 
+    pass_yds_off INT, 
+    rush_yds_off INT, 
+    to_off INT, 
+    first_down_def INT,
+    yards_def INT, 
+    pass_yds_def INT, 
+    rush_yds_def INT, 
+    to_def INT 
+);
+
